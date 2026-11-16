@@ -1,0 +1,7 @@
+.git
+.dvc
+data
+model
+*.ipynb
+.env
+__pycache__
